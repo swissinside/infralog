@@ -5,6 +5,7 @@
 - *.mdr_i
 - *.tru
 - *.usar
+- *.bin
 
 This repository is currently only used to track issues related to Infralog.
 
